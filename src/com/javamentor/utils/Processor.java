@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Processor {
 
-    private static String romanDigitsOneLine = "IiVvXx";
+    private static String romanDigitsOneLine = "IiVvXxLlCc";
     private static String arabicDigitsOneLine = "0123456789";
     private static Map<String, Integer> equality = new HashMap<String, Integer>() {{
         put("I", 1);
